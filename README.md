@@ -7,6 +7,17 @@ This tool automates the security header review process and accelerates security 
 
 ---
 
+<p align="center">
+  <img src="assets/HTTP Header Analyzer.png" width="600">
+</p>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-brightgreen">
+  <img src="https://img.shields.io/badge/language-python-blue">
+  <img src="https://img.shields.io/badge/type-offensive%20security-red">
+  <img src="https://img.shields.io/badge/license-MIT-yellow">
+</p>
+
 # 📂 Project Structure
 
 ```
