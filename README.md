@@ -8,7 +8,7 @@ This tool automates the security header review process and accelerates security 
 ---
 
 <p align="center">
-  <img src="assets/Port Scanner.png" width="600">
+  <img src="assets/HTTP Header Analyzer.png" width="600">
 </p>
 <br>
 <p align="center">
